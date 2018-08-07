@@ -1,1 +1,3 @@
-This is just a test. Amended the TEXT.
+This is just a test. 
+1. Amended the TEXT.
+2.Second change to text.
